@@ -1,0 +1,15 @@
+# Ignore Build Files
+[Bb][Uu][Ii][Ll][Dd]/
+[Oo][Uu][Tt]/
+x64/
+x86/
+Debug/
+Release/
+
+# Ignore Editor Files
+.vs/
+
+# Ignore Binaries
+*.exe
+*.lib
+*.dil
